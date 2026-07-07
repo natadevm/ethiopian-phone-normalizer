@@ -1,0 +1,20 @@
+{
+  "name": "eth-phone",
+  "version": "1.0.0",
+  "description": "Ethiopian phone number formatter and validator",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "ethiopia",
+    "phone",
+    "validator",
+    "formatter"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^3.0.0"
+  }
+}
